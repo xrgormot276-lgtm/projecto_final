@@ -3,6 +3,8 @@ from modelos.usuario import Usuario
 from modelos.prestamo import Prestamo
 from servicios.biblioteca import Biblioteca
 
+#GitHub Publico: https://github.com/xrgormot276-lgtm/projecto_final
+
 def menu():
 
     print()
