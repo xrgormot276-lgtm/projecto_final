@@ -3,7 +3,7 @@ from modelos.usuario import Usuario
 from modelos.prestamo import Prestamo
 from servicios.biblioteca import Biblioteca
 
-#GitHub Publico: https://github.com/xrgormot276-lgtm/projecto_final
+#GitHub Publico: https://github.com/xrgormot276-lgtm/projecto_final y solo falta control excepciones y controlar archivos.
 
 def menu():
 
